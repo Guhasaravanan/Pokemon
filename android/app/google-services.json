@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183110709275",
+    "project_id": "authtutorial-2222b",
+    "storage_bucket": "authtutorial-2222b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183110709275:android:6fbdbc2deaaf86ccf088be",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcRRM8zhQybq1MHjKvLu9P42LnxxAxnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183110709275:android:edfd5b4a4283d224f088be",
+        "android_client_info": {
+          "package_name": "com.example.pokemon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcRRM8zhQybq1MHjKvLu9P42LnxxAxnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
